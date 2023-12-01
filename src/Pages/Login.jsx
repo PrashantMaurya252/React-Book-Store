@@ -2,7 +2,7 @@ import React from 'react'
 
 function Login() {
   return (
-    <div className='w-1/2 border-2 border-black border-solid flex flex-col justify-evenly p-10 m-auto bg-gradient-to-b from-purple-600 to-pink-600'>
+    <div className='md:w-1/2 border-2 w-5/6 border-black border-solid flex flex-col justify-evenly p-10 mx-auto md:mx-auto bg-gradient-to-b from-purple-600 to-pink-600 rounded-lg'>
       <div>
         <div className='flex justify-between m-3'>
           <h2 className='text-2xl'>Email</h2>

@@ -4,7 +4,7 @@ import AboutSection from '../components/AboutSection'
 function About() {
   return (
     <>
-    <div className='w-11/12 h-screen flex justify-center items-center m-auto'>
+    <div className='md:w-11/12  h-screen flex justify-center items-center m-auto'>
        <div className="flex flex-col justify-evenly items-center w-full h-1/2  bg-cover bg-center text-center rounded-xl " style={{
     backgroundImage: "url('https://images.unsplash.com/photo-1535905496755-26ae35d0ae54?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fHdpZGUlMjBib29rcyUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D')",
   }} >
@@ -13,7 +13,7 @@ function About() {
        </div>
        
     </div>
-    <div className='flex '>
+    <div className='flex flex-col md:flex-row md:mx-auto flex-wrap md:flex-nowrap p-2 mx-auto'>
       <AboutSection title="Welcome to The Novel Spot  A Literary Haven for Bibliophiles" content="At The Novel Spot, we believe that every book has a story, and so does every reader. Nestled in the heart of [Your Location], our bookstore is more than just a collection of books; it's a celebration of the written word and a sanctuary for book lovers." />
 
       <AboutSection title="Our Story: A Tale of Passion and Pages" content="Founded in 2023, The Novel Stop was born out of a shared love for literature and the desire to create a space where book enthusiasts could explore, discover, and connect. Our journey began with a humble selection of titles and a vision to build a community around the magic of storytelling."/>

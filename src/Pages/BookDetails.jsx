@@ -10,7 +10,7 @@ function BookDetails() {
     },[param.id])
 
     return(
-        <div className='bg-gradient-to-r from-purple-600 to-pink-200'>
+        <div className='bg-gradient-to-r from-purple-600 to-pink-200 '>
             <h1 className='text-center text-2xl bg-purple-800'>Book Details Goes Here</h1>
             {details ?(
              <div className='flex flex-col items-start justify-between p-11'>
