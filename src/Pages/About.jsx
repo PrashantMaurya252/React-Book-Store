@@ -14,7 +14,7 @@ function About() {
        
     </div>
     <div className='flex flex-col md:flex-row md:mx-auto flex-wrap md:flex-nowrap p-2 mx-auto'>
-      <AboutSection title="Welcome to The Novel Spot  A Literary Haven for Bibliophiles" content="At The Novel Spot, we believe that every book has a story, and so does every reader. Nestled in the heart of [Your Location], our bookstore is more than just a collection of books; it's a celebration of the written word and a sanctuary for book lovers." />
+      <AboutSection title="Welcome to The Novel Spot  A Literary Haven for Bibliophiles" content="At The Novel Spot, we believe that every book has a story, and so does every reader. Nestled in the heart of Gorakhpur, our bookstore is more than just a collection of books; it's a celebration of the written word and a sanctuary for book lovers." />
 
       <AboutSection title="Our Story: A Tale of Passion and Pages" content="Founded in 2023, The Novel Stop was born out of a shared love for literature and the desire to create a space where book enthusiasts could explore, discover, and connect. Our journey began with a humble selection of titles and a vision to build a community around the magic of storytelling."/>
       <AboutSection title="A Curated Collection: Where Quality Meets Passion" content="Step into our store, and you'll find more than just shelves lined with books. Each title is carefully curated, reflecting our commitment to quality literature across genres. From timeless classics to contemporary gems, our collection is a testament to the diverse voices and narratives that make the world of literature so enchanting."/>
